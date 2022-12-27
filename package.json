@@ -1,0 +1,22 @@
+{
+  "name": "dreamshare_landing_page",
+  "version": "0.0.1",
+  "description": "A landing page about travel partner lookup",
+  "main": "index.js",
+  "scripts": {
+    "compile_styles": "sass --watch style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NestorkoI/LOGOS-1st-final-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NestorkoI/LOGOS-1st-final-project/issues"
+  },
+  "homepage": "https://github.com/NestorkoI/LOGOS-1st-final-project#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
